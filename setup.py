@@ -4,6 +4,7 @@ from setuptools import setup, find_packages
 
 #with open('README.rst', 'r') as f:
 #    long_description = f.read()
+long_description = "woot, yo"
 
 setup(
     name='emojis',
